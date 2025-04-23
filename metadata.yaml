@@ -1,0 +1,29 @@
+_repo: Svinhufvudin-kertomukset-Siperiasta_75772
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Svinhufvud, Per Evind
+    gutenberg_agent_id: '58134'
+    url: http://www.gutenberg.org/2009/agents/58134
+  editor:
+    agent_name: Räikkönen, Erkki
+    gutenberg_agent_id: '58135'
+    url: http://www.gutenberg.org/2009/agents/58135
+description: ''
+gutenberg_issued: '2025-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75772'
+language: fi
+pgterms:marc905: 20250325025754hrknen
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Svinhufvudin kertomukset Siperiasta
+url: http://www.gutenberg.org/ebooks/75772
